@@ -87,7 +87,7 @@
   .container-category {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    column-gap: 313px;
+    column-gap: 120px;
     row-gap: 97px;
     justify-items: center;
   }
