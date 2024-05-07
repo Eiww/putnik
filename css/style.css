@@ -98,13 +98,12 @@
   .title-products {
     font-size: 32px;
     color: #c23521;
-    padding: 20px 0 86px 453px;
+    padding: 20px 0 60px 325px;
     font-weight: bold;
   }
   .container-products {
     display: grid;
     grid-template-columns: auto 1fr 1fr 1fr; /* Три равные колонки, первая автоматическая */
-    column-gap: 243px;
     row-gap: 30px;
     margin: 0 120px 0 220px;
   }
